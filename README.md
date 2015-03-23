@@ -33,7 +33,7 @@ Project structure for new Origami components.
   ```
   git remote add origin https://github.com/Financial-Times/o-your-component.git
   ```
-5. install dependencies: `npm i && bower i`
+5. Install dependencies: `npm i && bower i`
 6. Test and verify: `obt test && obt verify` (and fix the code raising errors)
 7. Commit and push: `git add . && git commit -m "Initial commit" && git push origin master`
 
